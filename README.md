@@ -1,4 +1,4 @@
-# Abhishek_FUFF_TOOL
+# Abhishek_FFUF_TOOL
 
 FFUF TOOL
 ‘ffuf’ tool (Fuzz Faster U Fool), which is a web fuzzing tool used for finding hidden web resources and vulnerabilities.
